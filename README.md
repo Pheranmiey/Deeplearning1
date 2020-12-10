@@ -1,1 +1,1 @@
-# Deeplearning1
+The first week of deep learning tutorials 
